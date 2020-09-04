@@ -14,7 +14,7 @@
 
 **Prototypes :**
 
-Array.
+Array, Element, Nodelist, Number, Objectn String.
 
 1.0 
 
