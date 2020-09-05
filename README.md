@@ -2,15 +2,19 @@
 
 **Function :**
 
-"isScrolledIntoView"    : Allow you to know if the element is visible on screen.
+"isScrolledIntoView"        : Allow you to know if the element is visible on screen.
 
-"isInside"              : If an element is inside an other one.
+"isInside"                  : If an element is inside an other one.
 
-"isCollide"             : If 2 elements are colliding.
+"isCollide"                 : If 2 elements are colliding.
 
-"field_sorter"          : Sort object with defined key.
+"field_sorter"              : Sort object with defined key.
 
-"debounce"              : Debounce.
+"debounce"                  : Debounce.
+
+"set_fullscreen"            : Set element in fullscreen.
+
+"base64_to_array_buffer"    : Transform base64 into array buffer
 
 **Object :**
 
@@ -22,6 +26,10 @@
 
 Array, Element, Nodelist, Number, Object, String.
 ( take a look inside to get all methods.)
+
+1.2
+
+- Add "set_fullscreen", "base64_to_array_buffer".
 
 1.1
 
