@@ -22,10 +22,22 @@
 
 "Event" :  "on", "off" , "once" , "trigger".
 
+"private_object".
+
 **Prototypes :**
 
 Array, Element, Nodelist, Number, Object, String.
 ( take a look inside to get all methods.)
+
+**Jquery :**
+
+"outerHtml" , "wait" , "hasHorizontalScrollBar", "hasVerticalScrollBar" , "disable" , "enable", "hasAttr" , "toggleAttrVal".
+"scroll_lock" ( usefull to lock scroll when a modal is visible on screen)
+
+1.3
+
+- Add a Jquery folder.
+- Object "private_object".
 
 1.2
 
