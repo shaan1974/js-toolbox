@@ -34,6 +34,10 @@ Array, Element, Nodelist, Number, Object, String.
 "outerHtml" , "wait" , "hasHorizontalScrollBar", "hasVerticalScrollBar" , "disable" , "enable", "hasAttr" , "toggleAttrVal".
 "scroll_lock" ( usefull to lock scroll when a modal is visible on screen)
 
+1.4 
+
+Add alias
+
 1.3
 
 - Add a Jquery folder.
