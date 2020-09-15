@@ -16,6 +16,8 @@
 
 "base64_to_array_buffer"    : Transform base64 into array buffer
 
+"__fadeOut" , "__fadeIn"    : Fade in, Fade out, need animate.css to run.
+
 **Object :**
 
 "Base64" : "encode", "decode", "_utf8_encode", "_utf8_decode".
@@ -33,6 +35,10 @@ Array, Element, Nodelist, Number, Object, String.
 
 "outerHtml" , "wait" , "hasHorizontalScrollBar", "hasVerticalScrollBar" , "disable" , "enable", "hasAttr" , "toggleAttrVal".
 "scroll_lock" ( usefull to lock scroll when a modal is visible on screen)
+
+1.5
+
+Fade in, Fade Out.
 
 1.4 
 
