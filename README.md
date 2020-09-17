@@ -36,6 +36,9 @@ Array, Element, Nodelist, Number, Object, String.
 "outerHtml" , "wait" , "hasHorizontalScrollBar", "hasVerticalScrollBar" , "disable" , "enable", "hasAttr" , "toggleAttrVal".
 "scroll_lock" ( usefull to lock scroll when a modal is visible on screen)
 
+1.6
+
+Vanilla js version of "isScrolledIntoView".
 1.5
 
 Fade in, Fade Out.
